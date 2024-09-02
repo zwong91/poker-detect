@@ -1,0 +1,68 @@
+# 数据集在 datasets 目录下的文件夹路径
+#path: poker.yolo
+path: poker.voc
+
+# 训练集、验证集、测试集相对于 path 的路径（一般不用区分验证集和测试集，统称测试集）
+train: train/images
+val: val/images
+test: test/images
+
+# Default batch_size
+batch_size: 32
+# 类别信息
+nc: 54  # 类别的数量
+names:  # 类别的名称列表
+  - 'Tc'
+  - 'Td'
+  - 'Th'
+  - 'Ts'
+  - '2c'
+  - '2d'
+  - '2h'
+  - '2s'
+  - '3c'
+  - '3d'
+  - '3h'
+  - '3s'
+  - '4c'
+  - '4d'
+  - '4h'
+  - '4s'
+  - '5c'
+  - '5d'
+  - '5h'
+  - '5s'
+  - '6c'
+  - '6d'
+  - '6h'
+  - '6s'
+  - '7c'
+  - '7d'
+  - '7h'
+  - '7s'
+  - '8c'
+  - '8d'
+  - '8h'
+  - '8s'
+  - '9c'
+  - '9d'
+  - '9h'
+  - '9s'
+  - 'Ac'
+  - 'Ad'
+  - 'Ah'
+  - 'As'
+  - 'Jc'
+  - 'Jd'
+  - 'Jh'
+  - 'Js'
+  - 'Kc'
+  - 'Kd'
+  - 'Kh'
+  - 'Ks'
+  - 'Qc'
+  - 'Qd'
+  - 'Qh'
+  - 'Qs'
+  - 'SJoker'
+  - 'BJoker'
