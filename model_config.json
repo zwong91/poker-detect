@@ -1,0 +1,9 @@
+{
+    "class_name": "InputLayer",
+    "config": {
+        "batch_input_shape": [null, 3, 10],
+        "dtype": "float32",
+        "sparse": false,
+        "name": "input_layer_2"
+    }
+}
