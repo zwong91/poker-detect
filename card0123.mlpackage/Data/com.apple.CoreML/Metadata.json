@@ -1,0 +1,16 @@
+{
+  "MLModelVersionStringKey" : "8.0.161",
+  "MLModelDescriptionKey" : "poXiao stackCard model trained on data\/BoYuanData.yaml",
+  "MLModelCreatorDefinedKey" : {
+    "IoU threshold" : "0.45",
+    "Confidence threshold" : "0.4",
+    "stride" : "32",
+    "task" : "detect",
+    "imgsz" : "[512, 512]",
+    "date" : "2024-01-23T16:01:52.376614",
+    "batch" : "1",
+    "names" : "{0: 'As', 1: 'Ah', 2: 'Ac', 3: 'Ad', 4: '2s', 5: '2h', 6: '2c', 7: '2d', 8: '3s', 9: '3h', 10: '3c', 11: '3d', 12: '4s', 13: '4h', 14: '4c', 15: '4d', 16: '5s', 17: '5h', 18: '5c', 19: '5d', 20: '6s', 21: '6h', 22: '6c', 23: '6d', 24: '7s', 25: '7h', 26: '7c', 27: '7d', 28: '8s', 29: '8h', 30: '8c', 31: '8d', 32: '9s', 33: '9h', 34: '9c', 35: '9d', 36: 'Ts', 37: 'Th', 38: 'Tc', 39: 'Td', 40: 'Js', 41: 'Jh', 42: 'Jc', 43: 'Jd', 44: 'Qs', 45: 'Qh', 46: 'Qc', 47: 'Qd', 48: 'Ks', 49: 'Kh', 50: 'Kc', 51: 'Kd', 52: 'SJoker', 53: 'BJoker'}"
+  },
+  "MLModelAuthorKey" : "poXiao",
+  "MLModelLicenseKey" : "AGPL-3.0 https:\/\/ultralytics.com\/license"
+}
